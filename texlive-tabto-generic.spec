@@ -43,3 +43,16 @@ position is already further along, \tabto starts a new line.
 %install
 mkdir -p %{buildroot}%{_texmfdistdir}
 cp -fpar tex %{buildroot}%{_texmfdistdir}
+
+
+%changelog
+* Wed Jan 04 2012 Paulo Andrade <pcpa@mandriva.com.br> 20090913-2
++ Revision: 756435
+- Rebuild to reduce used resources
+
+* Sat Nov 05 2011 Paulo Andrade <pcpa@mandriva.com.br> 20090913-1
++ Revision: 719638
+- texlive-tabto-generic
+- texlive-tabto-generic
+- texlive-tabto-generic
+
