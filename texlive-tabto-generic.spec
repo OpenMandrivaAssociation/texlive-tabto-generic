@@ -6,7 +6,7 @@
 # catalog-version undef
 Name:		texlive-tabto-generic
 Version:	20090913
-Release:	6
+Release:	7
 Summary:	"Tab" to a measured position in the line
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/generic/misc/tabto.tex
