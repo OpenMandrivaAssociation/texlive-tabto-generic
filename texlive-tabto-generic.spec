@@ -1,9 +1,3 @@
-# revision 15878
-# category Package
-# catalog-ctan /macros/generic/misc/tabto.tex
-# catalog-date 2009-09-13 19:05:07 +0200
-# catalog-license pd
-# catalog-version undef
 Name:		texlive-tabto-generic
 Version:	20170414
 Release:	1
@@ -32,7 +26,7 @@ position is already further along, \tabto starts a new line.
 
 #-----------------------------------------------------------------------
 %files
-%{_texmfdistdir}/tex/generic/tabto-generic/tabto.tex
+%{_texmfdistdir}/tex/generic/tabto-generic
 
 #-----------------------------------------------------------------------
 %prep
@@ -43,16 +37,3 @@ position is already further along, \tabto starts a new line.
 %install
 mkdir -p %{buildroot}%{_texmfdistdir}
 cp -fpar tex %{buildroot}%{_texmfdistdir}
-
-
-%changelog
-* Wed Jan 04 2012 Paulo Andrade <pcpa@mandriva.com.br> 20090913-2
-+ Revision: 756435
-- Rebuild to reduce used resources
-
-* Sat Nov 05 2011 Paulo Andrade <pcpa@mandriva.com.br> 20090913-1
-+ Revision: 719638
-- texlive-tabto-generic
-- texlive-tabto-generic
-- texlive-tabto-generic
-
