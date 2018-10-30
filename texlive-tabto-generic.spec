@@ -1,6 +1,6 @@
 Name:		texlive-tabto-generic
 Version:	20180303
-Release:	1
+Release:	2
 Summary:	"Tab" to a measured position in the line
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/generic/misc/tabto.tex
