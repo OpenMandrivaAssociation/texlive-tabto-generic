@@ -3,7 +3,7 @@ Version:	15878
 Release:	2
 Summary:	"Tab" to a measured position in the line
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/generic/misc/tabto.tex
+URL:		https://www.ctan.org/tex-archive/macros/generic/misc/tabto.tex
 License:	PD
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/tabto-generic.r%{version}.tar.xz
 BuildArch:	noarch
